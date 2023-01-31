@@ -1,0 +1,38 @@
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\GA Trial.exe
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\GA Trial.deps.json
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\GA Trial.runtimeconfig.json
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\GA Trial.runtimeconfig.dev.json
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\GA Trial.dll
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\GA Trial.pdb
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\GA Trial.Views.dll
+D:\NAIA\GA Trial\GA Trial\bin\Debug\netcoreapp3.1\GA Trial.Views.pdb
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.csproj.AssemblyReference.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.AssemblyInfoInputs.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.AssemblyInfo.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.csproj.CoreCompileInputs.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.MvcApplicationPartsAssemblyInfo.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.RazorAssemblyInfo.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.RazorAssemblyInfo.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\staticwebassets\GA Trial.StaticWebAssets.Manifest.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\staticwebassets\GA Trial.StaticWebAssets.xml
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\scopedcss\bundle\GA Trial.styles.css
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.TagHelpers.input.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.TagHelpers.output.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.RazorCoreGenerate.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.RazorTargetAssemblyInfo.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.RazorTargetAssemblyInfo.cs
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.Views.pdb
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.dll
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.pdb
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.genruntimeconfig.cache
+D:\NAIA\GA Trial\GA Trial\obj\Debug\netcoreapp3.1\GA Trial.csproj.CopyComplete
